@@ -1,0 +1,130 @@
+{
+    "7794000003361": {
+        "name": "Granola almendra y arándanos Maizena",
+        "upc": "7794000003361",
+        "price_purchase": 178.46,
+        "price_wholesale": 151.691,
+        "price_sale": 200.58,
+        "category": "Cereales"
+    },
+    "7798353430010": {
+        "name": "Alfajor Chocolate Blanco Capricho x 70 gr",
+        "upc": "7798353430010",
+        "price_purchase": 25.98,
+        "price_wholesale": 22.083,
+        "price_sale": 37.01,
+        "category": "Alfajores"
+    },
+    "7798169802063": {
+        "name": "Almohaditas rellenas con frutilla",
+        "upc": "7798169802063",
+        "price_purchase": 116.0,
+        "price_wholesale": 98.6,
+        "price_sale": 184.33,
+        "category": "Cereales"
+    },
+    "7791290788909": {
+        "name": "Jabón Líquido Granby Violeta Doy Pack x 3 Lt",
+        "upc": "7791290788909",
+        "price_purchase": 229.89,
+        "price_wholesale": 195.4065,
+        "price_sale": 295,
+        "category": "Limpieza"
+    },
+    "7790742034502": {
+        "name": "Leche La Serenísima 0% sachet x 1L",
+        "upc": "7790742034502",
+        "price_purchase": 55.61,
+        "price_wholesale": 43.28,
+        "price_sale": 67,
+        "category": "Leche en sachet"
+    },
+    "7793890255966": {
+        "name": "Pan salvado grande plus Fargo x 690 gr",
+        "upc": "7793890255966",
+        "price_purchase": 149.99,
+        "price_wholesale": 127.4915,
+        "price_sale": 186,
+        "category": "Pan lactal"
+    },
+    "7792640000313": {
+        "name": "Acondicionador Ortiga para la caida del cabello CAPILATIS x 410 gr",
+        "upc": "7792640000313",
+        "price_purchase": 177.2,
+        "price_wholesale": 152.33,
+        "price_sale": 205.83,
+        "category": "Acondicionador"
+    },
+    "7792640000269": {
+        "name": "Shampoo Ortiga para la caída del cabello CAPILATIS x 410 gr",
+        "upc": "7792640000269",
+        "price_purchase": 177.2,
+        "price_wholesale": 160.51,
+        "price_sale": 256.87,
+        "category": "Shampoo"
+    },
+    "7790742344007": {
+        "name": "Queso untable desayuno light Cremón x 300g",
+        "upc": "7790742344007",
+        "price_purchase": 87.79,
+        "price_wholesale": 74.6215,
+        "price_sale": 99.35,
+        "category": "Quesos"
+    },
+    "7798039850026": {
+        "name": "Yerba mate Andresito x 500 gr",
+        "upc": "7798039850026",
+        "price_purchase": 103.19,
+        "price_wholesale": 87.7115,
+        "price_sale": 142,
+        "category": "Yerbas"
+    },
+    "7793890251432": {
+        "name": "Pan Lactal salvado con semillas x 350g",
+        "upc": "7793890251432",
+        "price_purchase": 84.0,
+        "price_wholesale": 71.39999999999999,
+        "price_sale": 104,
+        "category": "Pan lactal"
+    },
+    "7790250015055": {
+        "name": "Papel higiénico Higienol max 4 x 80 m",
+        "upc": "7790250015055",
+        "price_purchase": 122.63,
+        "price_wholesale": 110.35,
+        "price_sale": 142.55,
+        "category": "Papel"
+    },
+    "7792180001665": {
+        "name": "Aceite de girasol Cañuelas x 1,5 lts",
+        "upc": "7792180001665",
+        "price_purchase": 143.01,
+        "price_wholesale": 121.5585,
+        "price_sale": 180.30,
+        "category": "Aceite"
+    },
+    "7793100111556": {
+        "name": "Crema dental Colgate original x 70 grs",
+        "upc": "7793100111556",
+        "price_purchase": 57.93,
+        "price_wholesale": 49.2405,
+        "price_sale": 77.85,
+        "category": "Dentífricos"
+    },
+    "7790040994904": {
+        "name": "Galletitas azucaradas Porteñitas Bagley x 130 g",
+        "upc": "7790040994904",
+        "price_purchase": 38.34,
+        "price_wholesale": 32.589,
+        "price_sale": 46.77,
+        "category": "Galletitas"
+    },
+    "7790670051831": {
+        "name": "Hamburguesas Paty x4u x 72gr",
+        "upc": "7790670051831",
+        "price_purchase": 130.0,
+        "price_wholesale": 110.5,
+        "price_sale": 150.33,
+        "category": "Hamburguesas"
+    }
+}

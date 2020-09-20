@@ -1,0 +1,13 @@
+[main]
+# IP donde se emitirá el servidor (0.0.0.0 todas)
+bind_address = 0.0.0.0
+# Puerto donde escuchará el servidor.
+bind_port = 8000
+
+[auth]
+# Token de autenticación (se puede dejar comentado para que no haga la validación).
+#token = authtoken123
+
+[data]
+# Archivo JSON donde leerá todos los datos del supermercado.
+json_file = data.json
